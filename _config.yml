@@ -24,6 +24,9 @@ menu:
   - page: rss
     directory: atom.xml
     icon: fa-rss
+  - page: 孔令存诗文集
+    directory: http://cabins.coding.me/
+    icon: fa-book
 
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
   - search
