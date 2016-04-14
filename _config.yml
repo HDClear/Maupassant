@@ -37,8 +37,8 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: 孔令存技术博客
-    url: http://cabins.github.io/
+  - title: 孔令存诗文集
+    url: http://cabins.coding.me/
 
 # Static files
 js: js
